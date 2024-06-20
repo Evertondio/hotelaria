@@ -1,0 +1,14 @@
+D:\projetos c#\desafio\obj\Debug\net7.0\desafio.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos c#\desafio\obj\Debug\net7.0\desafio.AssemblyInfoInputs.cache
+D:\projetos c#\desafio\obj\Debug\net7.0\desafio.AssemblyInfo.cs
+D:\projetos c#\desafio\obj\Debug\net7.0\desafio.csproj.CoreCompileInputs.cache
+D:\projetos c#\desafio\bin\Debug\net7.0\desafio.exe
+D:\projetos c#\desafio\bin\Debug\net7.0\desafio.deps.json
+D:\projetos c#\desafio\bin\Debug\net7.0\desafio.runtimeconfig.json
+D:\projetos c#\desafio\bin\Debug\net7.0\desafio.dll
+D:\projetos c#\desafio\bin\Debug\net7.0\desafio.pdb
+D:\projetos c#\desafio\obj\Debug\net7.0\desafio.dll
+D:\projetos c#\desafio\obj\Debug\net7.0\refint\desafio.dll
+D:\projetos c#\desafio\obj\Debug\net7.0\desafio.pdb
+D:\projetos c#\desafio\obj\Debug\net7.0\desafio.genruntimeconfig.cache
+D:\projetos c#\desafio\obj\Debug\net7.0\ref\desafio.dll
